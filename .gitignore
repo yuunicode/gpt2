@@ -2,6 +2,4 @@
 /wandb
 /.venv
 /checkpoints
-/data
-/dataset
-/tokenizer
+/__pycache__
