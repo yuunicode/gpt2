@@ -1,0 +1,13 @@
+{
+  "block_size": 128,
+  "batch_size": 16,
+  "lr": 0.0003,
+  "epochs": 2,
+  "save_every": 1000,
+  "checkpoint_dir": "checkpoints",
+  "tokenizer_path": "tokenizer/sk_base_tokenizer.json",
+  "curriculum": ["data/train_stage1.txt", "data/train_stage2.txt"],
+  "n_layer": 4,
+  "n_head": 4,
+  "n_embd": 256
+}

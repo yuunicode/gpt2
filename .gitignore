@@ -1,0 +1,8 @@
+/.vscode
+/venv
+/wandb
+/.venv
+/checkpoints
+/data
+/dataset
+/tokenizer
